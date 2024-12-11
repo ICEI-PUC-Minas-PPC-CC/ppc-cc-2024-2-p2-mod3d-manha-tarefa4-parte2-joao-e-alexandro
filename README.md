@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Animação Deep Motion
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,10 +6,9 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Alexsandro Bueno
+- Jão Gabriel 
+
 
 ## Professor
 
