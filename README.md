@@ -1,8 +1,8 @@
 # Animação Deep Motion
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Modelagem 3D`
+`2024 - Semestre 2`
 
 ## Integrantes
 
@@ -12,7 +12,7 @@
 
 ## Professor
 
-- Mestre Yoda
+- Will Machado
 
 # Documentação
 
